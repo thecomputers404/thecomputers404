@@ -1,10 +1,7 @@
  <p align="center">
-  im always online in ponytown u can come to me and talk or interact it u want
-
-  please tell me if u wanna be moot I always accept friend request if you talk to more 
-  or i always talk to u i see u as oomf but if i ignore u that's mean i didn't wanna be moot with u js accept it and delete soon
+  <img src="https://github.com/thecomputers404/thecomputers404/blob/8397ceba6c09788ece7c4b4b86b74b0bf9e147e2/tumblr_81d0a915448af400e64bf920283c3f34_bd15922c_100.png" alt="Alt Text" width="100">
  </p>
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unhealthysoul&label=tenshi&color=7591bf" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=thecomputers404&label=✦&color=7591bf" alt="Profile Views Counter" />
 </p>
  
